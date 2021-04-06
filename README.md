@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Hooks Practice
+
+This is repository is for React Hooks practice and for code resource.
+
 ## Available Scripts
 
 In the project directory, you can run:
